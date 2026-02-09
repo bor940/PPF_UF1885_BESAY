@@ -1,0 +1,14 @@
+ Static hostname: UbuntuServer
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: 41ac72698aab47ae8d5910ab9e37bdfd
+         Boot ID: 814708dd6e6b4099bfc7d2c29b2ed79f
+  Virtualization: oracle
+Operating System: Ubuntu 24.04.3 LTS
+          Kernel: Linux 6.8.0-90-generic
+    Architecture: x86-64
+ Hardware Vendor: innotek GmbH
+  Hardware Model: VirtualBox
+Firmware Version: VirtualBox
+   Firmware Date: Fri 2006-12-01
+    Firmware Age: 19y 2month 1w 2d
