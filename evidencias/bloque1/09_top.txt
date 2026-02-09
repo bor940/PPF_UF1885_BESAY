@@ -1,0 +1,40 @@
+top - 12:15:52 up  3:14,  3 users,  load average: 1.55, 1.55, 1.79
+Tasks: 185 total,   1 running, 184 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.2 us,  4.2 sy,  0.0 ni, 89.6 id,  0.0 wa,  0.0 hi,  2.1 si,  0.0 st 
+MiB Mem :  10984.3 total,   7737.3 free,   1132.8 used,   2477.0 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   9851.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1048 netdata   20   0  794332 148700  26388 S   7.1   1.3  13:21.58 netdata
+  97280 bor       20   0   13204   6400   4224 R   7.1   0.1   0:00.04 top
+      1 root      20   0   22392  13184   9472 S   0.0   0.1   0:09.04 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.21 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     11 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     15 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     16 root      20   0       0      0      0 S   0.0   0.0   0:02.89 ksoftir+
+     17 root      20   0       0      0      0 I   0.0   0.0   0:31.60 rcu_pre+
+     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.74 migrati+
+     19 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     20 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1
+     22 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     23 root      rt   0       0      0      0 S   0.0   0.0   0:02.44 migrati+
+     24 root      20   0       0      0      0 S   0.0   0.0   0:45.62 ksoftir+
+     27 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2
+     28 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     29 root      rt   0       0      0      0 S   0.0   0.0   0:02.66 migrati+
+     30 root      20   0       0      0      0 S   0.0   0.0   0:02.75 ksoftir+
+     33 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/3
+     34 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     35 root      rt   0       0      0      0 S   0.0   0.0   0:02.89 migrati+
+     36 root      20   0       0      0      0 S   0.0   0.0   0:06.16 ksoftir+
+     41 root      20   0       0      0      0 I   0.0   0.0   0:03.16 kworker+
+     43 root      20   0       0      0      0 S   0.0   0.0   0:00.05 kdevtmp+
