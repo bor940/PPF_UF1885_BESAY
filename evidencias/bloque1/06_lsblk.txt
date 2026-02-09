@@ -1,0 +1,9 @@
+NAME   FSTYPE FSVER LABEL UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+loop0                                                                0   100% /snap/core22/2292
+loop1                                                                0   100% /snap/ngrok/340
+loop2                                                                0   100% /snap/snapd/25935
+loop3                                                                0   100% /snap/core22/2216
+sda                                                                           
+├─sda1                                                                        
+└─sda2 ext4   1.0         7569407c-8213-4daf-ab34-bbfcdf756de5     82G    11% /
+sr0                                                                           
