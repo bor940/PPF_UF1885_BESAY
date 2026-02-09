@@ -1,0 +1,3 @@
+NAMES          IMAGE                PORTS
+odoo-dev       odoo:18.0            0.0.0.0:8069->8069/tcp, [::]:8069->8069/tcp, 8071-8072/tcp
+postgres-dev   postgres:16-alpine   0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
