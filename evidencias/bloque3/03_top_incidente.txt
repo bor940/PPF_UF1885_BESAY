@@ -1,0 +1,40 @@
+top - 12:52:05 up  1:07,  2 users,  load average: 1.12, 0.98, 0.71
+Tasks: 180 total,   4 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.2 us,  0.2 sy,  0.0 ni, 99.6 id,  0.0 wa,  0.0 hi,  0.1 si,  0.0 st 
+MiB Mem :  10984.3 total,   8925.2 free,    985.3 used,   1379.7 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   9999.0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  37200 bor       20   0    5684   2048   1932 R  91.7   0.0   6:06.81 yes
+    956 root      20   0 2580724 102084  63664 S  41.7   0.9  20:17.63 dockerd
+    865 root      20   0 2016072  64984  34544 S  25.0   0.6  18:51.54 contain+
+  38475 root      20   0       4      4      0 R  25.0   0.0   0:00.03 runc:[2+
+    967 netdata   20   0  787528 141188  26260 S  16.7   1.3   1:34.28 netdata
+  38477 dhcpcd    20   0     680    200    172 R  16.7   0.0   0:00.02 curl
+   1501 root      20   0 1233584  11352   7396 S   8.3   0.1   0:36.08 contain+
+   1584 dhcpcd    20   0  362384 182124  32332 S   8.3   1.6   0:09.62 odoo
+   1867 netdata   20   0   99700   9160   5612 S   8.3   0.1   0:31.31 apps.pl+
+   2754 70        20   0  178140  24432  20104 S   8.3   0.2   0:00.80 postgres
+   3031 70        20   0  186600  42432  33656 S   8.3   0.4   0:00.85 postgres
+      1 root      20   0   22380  13480   9548 S   0.0   0.1   0:01.81 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.05 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     14 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     15 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     16 root      20   0       0      0      0 S   0.0   0.0   0:00.13 ksoftir+
+     17 root      20   0       0      0      0 I   0.0   0.0   0:02.56 rcu_pre+
+     18 root      rt   0       0      0      0 S   0.0   0.0   0:00.09 migrati+
+     19 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     20 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1
+     22 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     23 root      rt   0       0      0      0 S   0.0   0.0   0:00.91 migrati+
+     24 root      20   0       0      0      0 S   0.0   0.0   0:00.42 ksoftir+
+     26 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
