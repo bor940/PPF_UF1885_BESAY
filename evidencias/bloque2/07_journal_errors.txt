@@ -1,0 +1,9 @@
+Feb 10 11:07:36 UbuntuServer kernel: ITS: WARNING: ITS mitigation depends on retpoline and rethunk support
+Feb 10 11:07:36 UbuntuServer systemd[1]: Invalid DMI field header.
+Feb 10 11:07:36 UbuntuServer systemd-fstab-generator[318]: Failed to create unit file '/run/systemd/generator/swapfile.swap', as it already exists. Duplicate entry in '/etc/fstab'?
+Feb 10 11:07:36 UbuntuServer (sd-exec-[310]: /usr/lib/systemd/system-generators/systemd-fstab-generator failed with exit status 1.
+Feb 10 11:07:37 UbuntuServer kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* vmwgfx seems to be running on an unsupported hypervisor.
+Feb 10 11:07:37 UbuntuServer kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* This configuration is likely broken.
+Feb 10 11:07:37 UbuntuServer kernel: vmwgfx 0000:00:02.0: [drm] *ERROR* Please switch to a supported graphics device to avoid problems.
+Feb 10 11:45:05 UbuntuServer login[978]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+Feb 10 11:45:05 UbuntuServer login[978]: PAM adding faulty module: pam_lastlog.so
