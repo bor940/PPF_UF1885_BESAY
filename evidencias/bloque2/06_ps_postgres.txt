@@ -1,0 +1,12 @@
+70          1582  0.0  0.2 174492 26468 ?        Ss   11:44   0:00 postgres
+70          1793  0.0  0.0 174644  7728 ?        Ss   11:44   0:00 postgres: checkpointer 
+70          1794  0.0  0.0 174588  7072 ?        Ss   11:44   0:00 postgres: background writer 
+70          2121  0.0  0.0 174556  9408 ?        Ss   11:44   0:00 postgres: walwriter 
+70          2122  0.0  0.0 176172  7784 ?        Ss   11:44   0:00 postgres: autovacuum launcher 
+70          2123  0.0  0.0 176092  7156 ?        Ss   11:44   0:00 postgres: logical replication launcher 
+70          2183  0.0  0.1 176704 12916 ?        Ss   11:44   0:00 postgres: odoo postgres 172.18.0.2(41888) idle
+70          2185  0.0  0.1 176704 12984 ?        Ss   11:44   0:00 postgres: odoo postgres 172.18.0.2(41898) idle
+70          2754  0.0  0.2 178140 23408 ?        Ss   11:45   0:00 postgres: odoo odoo 172.18.0.2(44284) idle
+70          3031  0.0  0.2 179212 26348 ?        Ss   11:45   0:00 postgres: odoo odoo 172.18.0.2(59428) idle
+70          3032  0.0  0.1 176916 14064 ?        Ss   11:45   0:00 postgres: odoo odoo 172.18.0.2(59434) idle
+bor         6532  0.0  0.0   6544  2396 pts/0    S+   11:51   0:00 grep --color=auto postgres
